@@ -5,9 +5,6 @@
 [build]
   command = "yarn build"
   publish = "dist"
-  
-[build.environment]
-  HUGO_VERSION = "0.91.2-1798BD3F"
 
 [context.deploy-preview]
   command = "yarn build:preview"
