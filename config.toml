@@ -1,4 +1,4 @@
-baseurl = "http://github.com/panr/hugo-theme-terminal.git"
+baseURL = 'http://example.org/'
 languageCode = "en-us"
 title = "My New Netlify Victor Hugo Site"
 theme = "terminal"
