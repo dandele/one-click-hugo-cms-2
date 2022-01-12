@@ -1,3 +1,4 @@
+baseurl = "http://pensive-boyd-a16282.netlify.app/"
 languageCode = "en-us"
 title = "My New Netlify Victor Hugo Site"
 theme = "terminal"
